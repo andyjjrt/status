@@ -22,11 +22,11 @@
     "url": "https://slidev.andyjjrt.cc",
     "icon": "https://icons.duckduckgo.com/ip3/slidev.andyjjrt.cc.ico",
     "slug": "slidev-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.86%",
     "time": 832,
     "timeDay": 942,
@@ -34,6 +34,7 @@
     "timeMonth": 865,
     "timeYear": 832,
     "dailyMinutesDown": {
+      "2024-02-19": 3,
       "2024-01-23": 102
     }
   },
@@ -42,18 +43,19 @@
     "url": "https://song.andyjjrt.cc",
     "icon": "https://icons.duckduckgo.com/ip3/song.andyjjrt.cc.ico",
     "slug": "discord-bot",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.53%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 891,
     "timeDay": 978,
     "timeWeek": 878,
     "timeMonth": 866,
     "timeYear": 891,
     "dailyMinutesDown": {
+      "2024-02-19": 2,
       "2024-02-06": 97,
       "2024-02-05": 446,
       "2024-01-23": 101
@@ -64,9 +66,9 @@
     "url": "https://oj.ebg.tw",
     "icon": "https://icons.duckduckgo.com/ip3/oj.ebg.tw.ico",
     "slug": "nccu-online-judge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.86%",
@@ -76,6 +78,7 @@
     "timeMonth": 992,
     "timeYear": 995,
     "dailyMinutesDown": {
+      "2024-02-19": 0,
       "2024-01-23": 99
     }
   }
