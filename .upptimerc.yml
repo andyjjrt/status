@@ -10,7 +10,7 @@ sites:
   - name: Discord Bot
     url: https://song.andyjjrt.cc
   - name: NCCU Online Judge
-    url: https://oj.ebg.tw
+    url: $NCCU_OJ
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,7 +23,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Homw Page
+    - title: Home Page
       href: https://andyjjrt.cc
     - title: GitHub
       href: https://github.com/andyjjrt/status
