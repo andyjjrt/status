@@ -44,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/song.andyjjrt.cc.ico",
     "slug": "discord-bot",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 890,
     "timeDay": 1006,
     "timeWeek": 891,
@@ -66,9 +66,9 @@
     "url": "$NCCU_OJ",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nccu-online-judge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -78,6 +78,7 @@
     "timeMonth": 672,
     "timeYear": 1031,
     "dailyMinutesDown": {
+      "2024-04-09": 0,
       "2024-02-19": 18,
       "2024-01-23": 99
     }
