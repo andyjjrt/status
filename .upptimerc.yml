@@ -5,12 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Personal Website
     url: https://andyjjrt.cc
-  - name: Slidev hub
-    url: https://slidev.andyjjrt.cc
   - name: Discord Bot
     url: https://song.andyjjrt.cc
-  - name: NCCU Online Judge
-    url: $NCCU_OJ
+  - name: Coach AI+
+    url: https://badminton.andyjjrt.cc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
