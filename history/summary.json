@@ -75,19 +75,19 @@
     "url": "https://badminton.andyjjrt.cc",
     "icon": "https://icons.duckduckgo.com/ip3/badminton.andyjjrt.cc.ico",
     "slug": "coach-ai",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2755,
-    "timeDay": 694,
-    "timeWeek": 3991,
-    "timeMonth": 2755,
-    "timeYear": 2755,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 2572,
+    "timeDay": 629,
+    "timeWeek": 3563,
+    "timeMonth": 2572,
+    "timeYear": 2572,
     "dailyMinutesDown": {
-      "2024-11-18": 0
+      "2024-11-18": 20
     }
   }
 ]
