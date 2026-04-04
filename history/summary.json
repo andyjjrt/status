@@ -24,17 +24,19 @@
     "url": "https://uptime.andyjjrt.cc",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.andyjjrt.cc.ico",
     "slug": "uptime-kuma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 975,
-    "timeDay": 826,
-    "timeWeek": 1156,
-    "timeMonth": 989,
-    "timeYear": 975,
-    "dailyMinutesDown": {}
+    "time": 958,
+    "timeDay": 491,
+    "timeWeek": 1031,
+    "timeMonth": 963,
+    "timeYear": 958,
+    "dailyMinutesDown": {
+      "2026-04-04": 0
+    }
   }
 ]
