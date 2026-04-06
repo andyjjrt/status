@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 151,
-    "timeDay": 93,
-    "timeWeek": 136,
-    "timeMonth": 165,
+    "timeDay": 114,
+    "timeWeek": 139,
+    "timeMonth": 164,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-12-26": 28
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime.andyjjrt.cc.ico",
     "slug": "uptime-kuma",
     "status": "down",
-    "uptime": "98.17%",
-    "uptimeDay": "11.96%",
-    "uptimeWeek": "87.42%",
-    "uptimeMonth": "97.11%",
-    "uptimeYear": "98.17%",
-    "time": 942,
-    "timeDay": 136,
-    "timeWeek": 942,
-    "timeMonth": 941,
-    "timeYear": 942,
+    "uptime": "96.17%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "73.10%",
+    "uptimeMonth": "93.81%",
+    "uptimeYear": "96.17%",
+    "time": 925,
+    "timeDay": 113,
+    "timeWeek": 798,
+    "timeMonth": 923,
+    "timeYear": 925,
     "dailyMinutesDown": {
-      "2026-04-05": 197,
+      "2026-04-06": 200,
+      "2026-04-05": 1440,
       "2026-04-04": 1071
     }
   }
