@@ -5,5 +5,5 @@ repo: status # The name of this repository
 sites:
   - name: Personal Website
     url: https://andyjjrt.cc
-  - name: Uptime Kuma
-    url: https://uptime.andyjjrt.cc
+  - name: Litellm
+    url: https://llm.andyjjrt.cc
