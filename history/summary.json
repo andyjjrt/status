@@ -26,17 +26,17 @@
     "url": "https://llm.andyjjrt.cc",
     "icon": "https://icons.duckduckgo.com/ip3/llm.andyjjrt.cc.ico",
     "slug": "litellm",
-    "status": "down",
-    "uptime": "75.05%",
-    "uptimeDay": "80.01%",
-    "uptimeWeek": "97.14%",
+    "status": "up",
+    "uptime": "74.43%",
+    "uptimeDay": "36.88%",
+    "uptimeWeek": "90.98%",
     "uptimeMonth": "75.95%",
-    "uptimeYear": "75.05%",
-    "time": 625,
-    "timeDay": 96,
-    "timeWeek": 513,
-    "timeMonth": 567,
-    "timeYear": 625,
+    "uptimeYear": "74.43%",
+    "time": 624,
+    "timeDay": 263,
+    "timeWeek": 522,
+    "timeMonth": 568,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2026-10-17": 576,
       "2026-10-16": 1440,
@@ -52,7 +52,7 @@
       "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 524,
-      "2026-11-10": 288
+      "2026-11-10": 909
     }
   }
 ]
